@@ -1,0 +1,165 @@
+Chara,Path,Combat Type,Atk_Multi_Class,Atk_Multi,Brk_Multi,Nrg_Multi
+Dan Heng,Hunt,Wind,Basic Attack 1,0.45,0.45,0.45
+Dan Heng,Hunt,Wind,Basic Attack 2,0.55,0.55,0.55
+Dan Heng,Hunt,Wind,Skill 1,0.3,0.3,0.3
+Dan Heng,Hunt,Wind,Skill 2,0.15,0.15,0.15
+Dan Heng,Hunt,Wind,Skill 3,0.15,0.15,0.15
+Dan Heng,Hunt,Wind,Skill 4,0.4,0.4,0.4
+Dan Heng，Imbibitor Lunae,Destruction,Imaginary,Basic Attack 1,0.3,0.3,0.3
+Dan Heng，Imbibitor Lunae,Destruction,Imaginary,Basic Attack 2,0.7,0.7,0.7
+Dan Heng，Imbibitor Lunae,Destruction,Imaginary,Lv.1 Basic Attack 1,0.33,0.33,0.33
+Dan Heng，Imbibitor Lunae,Destruction,Imaginary,Lv.1 Basic Attack 2,0.33,0.33,0.33
+Dan Heng，Imbibitor Lunae,Destruction,Imaginary,Lv.1 Basic Attack 3,0.34,0.34,0.34
+Dan Heng，Imbibitor Lunae,Destruction,Imaginary,Lv.2 Basic Attack Middle 1,0.2,0.2,0.2
+Dan Heng，Imbibitor Lunae,Destruction,Imaginary,Lv.2 Basic Attack Middle 2,0.2,0.2,0.2
+Dan Heng，Imbibitor Lunae,Destruction,Imaginary,Lv.2 Basic Attack Middle 3,0.2,0.2,0.2
+Dan Heng，Imbibitor Lunae,Destruction,Imaginary,Lv.2 Basic Attack Middle 4,0.2,0.2,0.2
+Dan Heng，Imbibitor Lunae,Destruction,Imaginary,Lv.2 Basic Attack Middle 5,0.2,0.2,0.2
+Dan Heng，Imbibitor Lunae,Destruction,Imaginary,Lv.2 Basic Attack Peripheral 1,0.5,0.5,0.5
+Dan Heng，Imbibitor Lunae,Destruction,Imaginary,Lv.2 Basic Attack Peripheral 2,0.5,0.5,0.5
+Dan Heng，Imbibitor Lunae,Destruction,Imaginary,Lv.3 Basic Attack Middle 1,0.142,0.142,0.14
+Dan Heng，Imbibitor Lunae,Destruction,Imaginary,Lv.3 Basic Attack Middle 2,0.142,0.142,0.14
+Dan Heng，Imbibitor Lunae,Destruction,Imaginary,Lv.3 Basic Attack Middle 3,0.142,0.142,0.14
+Dan Heng，Imbibitor Lunae,Destruction,Imaginary,Lv.3 Basic Attack Middle 4,0.142,0.142,0.14
+Dan Heng，Imbibitor Lunae,Destruction,Imaginary,Lv.3 Basic Attack Middle 5,0.142,0.142,0.15
+Dan Heng，Imbibitor Lunae,Destruction,Imaginary,Lv.3 Basic Attack Middle 6,0.142,0.142,0.14
+Dan Heng，Imbibitor Lunae,Destruction,Imaginary,Lv.3 Basic Attack Middle 7,0.148,0.148,0.15
+Dan Heng，Imbibitor Lunae,Destruction,Imaginary,Lv.3 Basic Attack Peripheral 1,0.25,0.25,0.25
+Dan Heng，Imbibitor Lunae,Destruction,Imaginary,Lv.3 Basic Attack Peripheral 2,0.25,0.25,0.25
+Dan Heng，Imbibitor Lunae,Destruction,Imaginary,Lv.3 Basic Attack Peripheral 3,0.25,0.25,0.25
+Dan Heng，Imbibitor Lunae,Destruction,Imaginary,Lv.3 Basic Attack Peripheral 4,0.25,0.25,0.25
+Dan Heng，Imbibitor Lunae,Destruction,Imaginary,Ultimate Middle 1,0.3,0.3,0.3
+Dan Heng，Imbibitor Lunae,Destruction,Imaginary,Ultimate Middle 2,0.3,0.3,0.3
+Dan Heng，Imbibitor Lunae,Destruction,Imaginary,Ultimate Middle 3,0.4,0.4,0.4
+Dan Heng，Imbibitor Lunae,Destruction,Imaginary,Ultimate Peripheral 1,0.3,0.3,0.3
+Dan Heng，Imbibitor Lunae,Destruction,Imaginary,Ultimate Peripheral 2,0.3,0.3,0.3
+Dan Heng，Imbibitor Lunae,Destruction,Imaginary,Ultimate Peripheral 3,0.4,0.4,0.4
+Arlan,Destruction,Lightning,Basic Attack 1,0.3,0.3,0.3
+Arlan,Destruction,Lightning,Basic Attack 2,0.7,0.7,0.7
+Arlan,Destruction,Lightning,Ultimate 1,0.3,0.3,0.3
+Arlan,Destruction,Lightning,Ultimate 2,0.1,0.1,0.1
+Arlan,Destruction,Lightning,Ultimate 3,0.6,0.6,0.6
+Herta,The Erudition,Ice,Skill 1,0.3,0.3,0.3
+Herta,The Erudition,Ice,Skill 2,0.7,0.7,0.7
+Hook,Destruction,Fire,Ultimate 1,0.3,0.3,0.3
+Hook,Destruction,Fire,Ultimate 2,0.7,0.7,0.7
+Himeko,The Erudition,Fire,Basic Attack 1,0.4,0.4,0.4
+Himeko,The Erudition,Fire,Basic Attack 2,0.6,0.6,0.6
+Himeko,The Erudition,Fire,Skill Middle 1,0.2,0.2,0.2
+Himeko,The Erudition,Fire,Skill Middle 2,0.2,0.2,0.2
+Himeko,The Erudition,Fire,Skill Middle 3,0.05,0.05,0.05
+Himeko,The Erudition,Fire,Skill Middle 4,0.05,0.05,0.05
+Himeko,The Erudition,Fire,Skill Middle 5,0.05,0.05,0.05
+Himeko,The Erudition,Fire,Skill Middle 6,0.05,0.05,0.05
+Himeko,The Erudition,Fire,Skill Middle 7,0.4,0.4,0.4
+Himeko,The Erudition,Fire,Skill Peripheral 1,0.2,0.2,0.2
+Himeko,The Erudition,Fire,Skill Peripheral 2,0.2,0.2,0.2
+Himeko,The Erudition,Fire,Skill Peripheral 3,0.6,0.6,0.6
+Himeko,The Erudition,Fire,Follow-up 1,0.2,0.2,0.2
+Himeko,The Erudition,Fire,Follow-up 2,0.2,0.2,0.2
+Himeko,The Erudition,Fire,Follow-up 3,0.2,0.2,0.2
+Himeko,The Erudition,Fire,Follow-up 4,0.4,0.4,0.4
+Jingliu,Destruction,Ice,Basic Attack 1,0.3,0.3,0.3
+Jingliu,Destruction,Ice,Basic Attack 2,0.7,0.7,0.7
+Jingliu,Destruction,Ice,Amp Skill Middle 1,0.1,0.1,0.1
+Jingliu,Destruction,Ice,Amp Skill Middle 2,0.1,0.1,0.1
+Jingliu,Destruction,Ice,Amp Skill Middle 3,0.1,0.1,0.1
+Jingliu,Destruction,Ice,Amp Skill Middle 4,0.2,0.2,0.2
+Jingliu,Destruction,Ice,Amp Skill Middle 5,0.5,0.5,0.5
+Jingliu,Destruction,Ice,Amp Skill Peripheral 1,0.2,0.2,0.2
+Jingliu,Destruction,Ice,Amp Skill Peripheral 2,0.2,0.2,0.2
+Jingliu,Destruction,Ice,Amp Skill Peripheral 3,0.2,0.2,0.2
+Jingliu,Destruction,Ice,Amp Skill Peripheral 4,0.4,0.4,0.4
+Jing Yuan,The Erudition,Lightning,Basic Attack 1,0.45,0.45,0.45
+Jing Yuan,The Erudition,Lightning,Basic Attack 2,0.55,0.55,0.55
+Jing Yuan,The Erudition,Lightning,Skill 1,0.4,0.4,0.4
+Jing Yuan,The Erudition,Lightning,Skill 2,0.3,0.3,0.3
+Jing Yuan,The Erudition,Lightning,Skill 3,0.3,0.3,0.3
+Kafka,Nihility,Lightning,Basic Attack 1,0.2,0.2,0.2
+Kafka,Nihility,Lightning,Basic Attack 2,0.3,0.3,0.3
+Kafka,Nihility,Lightning,Basic Attack 3,0.5,0.5,0.5
+Kafka,Nihility,Lightning,Follow-up 1,0.15,0.15,0.15
+Kafka,Nihility,Lightning,Follow-up 2,0.15,0.15,0.15
+Kafka,Nihility,Lightning,Follow-up 3,0.15,0.15,0.15
+Kafka,Nihility,Lightning,Follow-up 4,0.15,0.15,0.15
+Kafka,Nihility,Lightning,Follow-up 5,0.15,0.15,0.15
+Kafka,Nihility,Lightning,Follow-up 6,0.25,0.25,0.25
+Trailblazer，Preservation,Preservation,Fire,Amp Basic Attack Middle 1,0.5,0.5,0.5
+Trailblazer，Preservation,Preservation,Fire,Amp Basic Attack Middle 2,0.5,0.5,0.5
+Clara,Destruction,Physical,Skill Extra 1,0.25,-,-
+Clara,Destruction,Physical,Skill Extra 2,0.25,-,-
+Clara,Destruction,Physical,Skill Extra 3,0.25,-,-
+Clara,Destruction,Physical,Skill Extra 4,0.25,-,-
+Luocha,Abundance,Imaginary,Basic Attack 1,0.3,0.3,0.3
+Luocha,Abundance,Imaginary,Basic Attack 2,0.3,0.3,0.3
+Luocha,Abundance,Imaginary,Basic Attack 3,0.4,0.4,0.4
+Pela,Nihility,Ice,Basic Attack 1,0.5,0.5,0.5
+Pela,Nihility,Ice,Basic Attack 2,0.5,0.5,0.5
+Blade,Destruction,Wind,Basic Attack 1,0.5,0.5,0.5
+Blade,Destruction,Wind,Basic Attack 2,0.5,0.5,0.5
+Blade,Destruction,Wind,Amp Basic Attack 1,0.5,0.5,0.5
+Blade,Destruction,Wind,Amp Basic Attack 2,0.5,0.5,0.5
+Blade,Destruction,Wind,Follow-up 1,0.33,0.33,0.33
+Blade,Destruction,Wind,Follow-up 2,0.33,0.33,0.33
+Blade,Destruction,Wind,Follow-up 3,0.34,0.34,0.34
+March 7th,Preservation,Ice,Ultimate 1,0.25,0.25,0.25
+March 7th,Preservation,Ice,Ultimate 2,0.25,0.25,0.25
+March 7th,Preservation,Ice,Ultimate 3,0.25,0.25,0.25
+March 7th,Preservation,Ice,Ultimate 4,0.25,0.25,0.25
+Sampo,Nihility,Wind,Basic Attack 1,0.3,0.3,0.3
+Sampo,Nihility,Wind,Basic Attack 2,0.3,0.3,0.3
+Sampo,Nihility,Wind,Basic Attack 3,0.4,0.4,0.4
+Sampo,Nihility,Wind,Ultimate 1,0.25,0.25,0.25
+Sampo,Nihility,Wind,Ultimate 2,0.25,0.25,0.25
+Sampo,Nihility,Wind,Ultimate 3,0.25,0.25,0.25
+Sampo,Nihility,Wind,Ultimate 4,0.25,0.25,0.25
+Sushang,Hunt,Physical,Skill 1,0.3,0.3,0.3
+Sushang,Hunt,Physical,Skill 2,0.7,0.7,0.7
+Tingyun,Harmony,Lightning,Basic Attack 1,0.3,0.3,0.3
+Tingyun,Harmony,Lightning,Basic Attack 2,0.7,0.7,0.7
+Welt,Nihility,Imaginary,Talent 1,0.1,-,-
+Welt,Nihility,Imaginary,Talent 2,0.9,-,-
+Seele,Hunt,Quantum,Basic Attack 1,0.3,0.3,0.3
+Seele,Hunt,Quantum,Basic Attack 2,0.7,0.7,0.7
+Seele,Hunt,Quantum,Skill 1,0.2,0.2,0.2
+Seele,Hunt,Quantum,Skill 2,0.1,0.1,0.1
+Seele,Hunt,Quantum,Skill 3,0.1,0.1,0.1
+Seele,Hunt,Quantum,Skill 4,0.6,0.6,0.6
+XueYi,Destruction,Quantum,Basic Attack 1,0.4,0.4,0.4
+XueYi,Destruction,Quantum,Basic Attack 2,0.6,0.6,0.6
+Yanqing,Hunt,Ice,Basic Attack 1,0.5,0.5,0.5
+Yanqing,Hunt,Ice,Basic Attack 2,0.25,0.25,0.25
+Yanqing,Hunt,Ice,Basic Attack 3,0.25,0.25,0.25
+Yanqing,Hunt,Ice,Skill 1,0.25,0.25,0.25
+Yanqing,Hunt,Ice,Skill 2,0.25,0.25,0.25
+Yanqing,Hunt,Ice,Skill 3,0.25,0.25,0.25
+Yanqing,Hunt,Ice,Skill 4,0.25,0.25,0.25
+Silver Wolf,Nihility,Quantum,Basic Attack 1,0.25,0.25,0.25
+Silver Wolf,Nihility,Quantum,Basic Attack 2,0.25,0.25,0.25
+Silver Wolf,Nihility,Quantum,Basic Attack 3,0.5,0.5,0.5
+Yukong,Harmony,Imaginary,Basic Attack 1,0.2,0.2,0.2
+Yukong,Harmony,Imaginary,Basic Attack 2,0.2,0.2,0.2
+Yukong,Harmony,Imaginary,Basic Attack 3,0.6,0.6,0.6
+Topaz & Numby,Hunt,Fire,Skill 1,0.1,0.1,0.1
+Topaz & Numby,Hunt,Fire,Skill 2,0.1,0.1,0.1
+Topaz & Numby,Hunt,Fire,Skill 3,0.1,0.1,0.1
+Topaz & Numby,Hunt,Fire,Skill 4,0.1,0.1,0.1
+Topaz & Numby,Hunt,Fire,Skill 5,0.1,0.1,0.1
+Topaz & Numby,Hunt,Fire,Skill 6,0.1,0.1,0.1
+Topaz & Numby,Hunt,Fire,Skill 7,0.1,0.1,0.1
+Topaz & Numby,Hunt,Fire,Skill 8,0.3,0.3,0.3
+Topaz & Numby,Hunt,Fire,Numby 1,0.142857143,0.142857143,-
+Topaz & Numby,Hunt,Fire,Numby 2,0.142857143,0.142857143,-
+Topaz & Numby,Hunt,Fire,Numby 3,0.142857143,0.142857143,-
+Topaz & Numby,Hunt,Fire,Numby 4,0.142857143,0.142857143,-
+Topaz & Numby,Hunt,Fire,Numby 5,0.142857143,0.142857143,-
+Topaz & Numby,Hunt,Fire,Numby 6,0.142857143,0.142857143,-
+Topaz & Numby,Hunt,Fire,Numby 7,0.142857143,0.142857143,-
+Topaz & Numby,Hunt,Fire,Amp Numby 1,0.1,0.1,0.1
+Topaz & Numby,Hunt,Fire,Amp Numby 2,0.1,0.1,0.1
+Topaz & Numby,Hunt,Fire,Amp Numby 3,0.1,0.1,0.1
+Topaz & Numby,Hunt,Fire,Amp Numby 4,0.1,0.1,0.1
+Topaz & Numby,Hunt,Fire,Amp Numby 5,0.1,0.1,0.1
+Topaz & Numby,Hunt,Fire,Amp Numby 6,0.1,0.1,0.1
+Topaz & Numby,Hunt,Fire,Amp Numby 7,0.1,0.1,0.1
+Topaz & Numby,Hunt,Fire,Amp Numby 8,0.3,0.3,0.3

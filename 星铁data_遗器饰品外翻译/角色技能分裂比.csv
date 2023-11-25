@@ -1,0 +1,165 @@
+Chara,Atk_Multi_Class,Atk_Multi,Brk_Multi,Nrg_Multi
+Dan Heng,Basic Attack 1,0.45,0.45,0.45
+Dan Heng,Basic Attack 2,0.55,0.55,0.55
+Dan Heng,Skill 1,0.3,0.3,0.3
+Dan Heng,Skill 2,0.15,0.15,0.15
+Dan Heng,Skill 3,0.15,0.15,0.15
+Dan Heng,Skill 4,0.4,0.4,0.4
+Dan Heng，Imbibitor Lunae,Basic Attack 1,0.3,0.3,0.3
+Dan Heng，Imbibitor Lunae,Basic Attack 2,0.7,0.7,0.7
+Dan Heng，Imbibitor Lunae,Lv.1 Basic Attack 1,0.33,0.33,0.33
+Dan Heng，Imbibitor Lunae,Lv.1 Basic Attack 2,0.33,0.33,0.33
+Dan Heng，Imbibitor Lunae,Lv.1 Basic Attack 3,0.34,0.34,0.34
+Dan Heng，Imbibitor Lunae,Lv.2 Basic Attack Middle 1,0.2,0.2,0.2
+Dan Heng，Imbibitor Lunae,Lv.2 Basic Attack Middle 2,0.2,0.2,0.2
+Dan Heng，Imbibitor Lunae,Lv.2 Basic Attack Middle 3,0.2,0.2,0.2
+Dan Heng，Imbibitor Lunae,Lv.2 Basic Attack Middle 4,0.2,0.2,0.2
+Dan Heng，Imbibitor Lunae,Lv.2 Basic Attack Middle 5,0.2,0.2,0.2
+Dan Heng，Imbibitor Lunae,Lv.2 Basic Attack Peripheral 1,0.5,0.5,0.5
+Dan Heng，Imbibitor Lunae,Lv.2 Basic Attack Peripheral 2,0.5,0.5,0.5
+Dan Heng，Imbibitor Lunae,Lv.3 Basic Attack Middle 1,0.142,0.142,0.14
+Dan Heng，Imbibitor Lunae,Lv.3 Basic Attack Middle 2,0.142,0.142,0.14
+Dan Heng，Imbibitor Lunae,Lv.3 Basic Attack Middle 3,0.142,0.142,0.14
+Dan Heng，Imbibitor Lunae,Lv.3 Basic Attack Middle 4,0.142,0.142,0.14
+Dan Heng，Imbibitor Lunae,Lv.3 Basic Attack Middle 5,0.142,0.142,0.15
+Dan Heng，Imbibitor Lunae,Lv.3 Basic Attack Middle 6,0.142,0.142,0.14
+Dan Heng，Imbibitor Lunae,Lv.3 Basic Attack Middle 7,0.148,0.148,0.15
+Dan Heng，Imbibitor Lunae,Lv.3 Basic Attack Peripheral 1,0.25,0.25,0.25
+Dan Heng，Imbibitor Lunae,Lv.3 Basic Attack Peripheral 2,0.25,0.25,0.25
+Dan Heng，Imbibitor Lunae,Lv.3 Basic Attack Peripheral 3,0.25,0.25,0.25
+Dan Heng，Imbibitor Lunae,Lv.3 Basic Attack Peripheral 4,0.25,0.25,0.25
+Dan Heng，Imbibitor Lunae,Ultimate Middle 1,0.3,0.3,0.3
+Dan Heng，Imbibitor Lunae,Ultimate Middle 2,0.3,0.3,0.3
+Dan Heng，Imbibitor Lunae,Ultimate Middle 3,0.4,0.4,0.4
+Dan Heng，Imbibitor Lunae,Ultimate Peripheral 1,0.3,0.3,0.3
+Dan Heng，Imbibitor Lunae,Ultimate Peripheral 2,0.3,0.3,0.3
+Dan Heng，Imbibitor Lunae,Ultimate Peripheral 3,0.4,0.4,0.4
+Arlan,Basic Attack 1,0.3,0.3,0.3
+Arlan,Basic Attack 2,0.7,0.7,0.7
+Arlan,Ultimate 1,0.3,0.3,0.3
+Arlan,Ultimate 2,0.1,0.1,0.1
+Arlan,Ultimate 3,0.6,0.6,0.6
+Herta,Skill 1,0.3,0.3,0.3
+Herta,Skill 2,0.7,0.7,0.7
+Hook,Ultimate 1,0.3,0.3,0.3
+Hook,Ultimate 2,0.7,0.7,0.7
+Himeko,Basic Attack 1,0.4,0.4,0.4
+Himeko,Basic Attack 2,0.6,0.6,0.6
+Himeko,Skill Middle 1,0.2,0.2,0.2
+Himeko,Skill Middle 2,0.2,0.2,0.2
+Himeko,Skill Middle 3,0.05,0.05,0.05
+Himeko,Skill Middle 4,0.05,0.05,0.05
+Himeko,Skill Middle 5,0.05,0.05,0.05
+Himeko,Skill Middle 6,0.05,0.05,0.05
+Himeko,Skill Middle 7,0.4,0.4,0.4
+Himeko,Skill Peripheral 1,0.2,0.2,0.2
+Himeko,Skill Peripheral 2,0.2,0.2,0.2
+Himeko,Skill Peripheral 3,0.6,0.6,0.6
+Himeko,Follow-up 1,0.2,0.2,0.2
+Himeko,Follow-up 2,0.2,0.2,0.2
+Himeko,Follow-up 3,0.2,0.2,0.2
+Himeko,Follow-up 4,0.4,0.4,0.4
+Jingliu,Basic Attack 1,0.3,0.3,0.3
+Jingliu,Basic Attack 2,0.7,0.7,0.7
+Jingliu,Amp Skill Middle 1,0.1,0.1,0.1
+Jingliu,Amp Skill Middle 2,0.1,0.1,0.1
+Jingliu,Amp Skill Middle 3,0.1,0.1,0.1
+Jingliu,Amp Skill Middle 4,0.2,0.2,0.2
+Jingliu,Amp Skill Middle 5,0.5,0.5,0.5
+Jingliu,Amp Skill Peripheral 1,0.2,0.2,0.2
+Jingliu,Amp Skill Peripheral 2,0.2,0.2,0.2
+Jingliu,Amp Skill Peripheral 3,0.2,0.2,0.2
+Jingliu,Amp Skill Peripheral 4,0.4,0.4,0.4
+Jing Yuan,Basic Attack 1,0.45,0.45,0.45
+Jing Yuan,Basic Attack 2,0.55,0.55,0.55
+Jing Yuan,Skill 1,0.4,0.4,0.4
+Jing Yuan,Skill 2,0.3,0.3,0.3
+Jing Yuan,Skill 3,0.3,0.3,0.3
+Kafka,Basic Attack 1,0.2,0.2,0.2
+Kafka,Basic Attack 2,0.3,0.3,0.3
+Kafka,Basic Attack 3,0.5,0.5,0.5
+Kafka,Follow-up 1,0.15,0.15,0.15
+Kafka,Follow-up 2,0.15,0.15,0.15
+Kafka,Follow-up 3,0.15,0.15,0.15
+Kafka,Follow-up 4,0.15,0.15,0.15
+Kafka,Follow-up 5,0.15,0.15,0.15
+Kafka,Follow-up 6,0.25,0.25,0.25
+Trailblazer，Preservation,Amp Basic Attack Middle 1,0.5,0.5,0.5
+Trailblazer，Preservation,Amp Basic Attack Middle 2,0.5,0.5,0.5
+Clara,Skill Extra 1,0.25,-,-
+Clara,Skill Extra 2,0.25,-,-
+Clara,Skill Extra 3,0.25,-,-
+Clara,Skill Extra 4,0.25,-,-
+Luocha,Basic Attack 1,0.3,0.3,0.3
+Luocha,Basic Attack 2,0.3,0.3,0.3
+Luocha,Basic Attack 3,0.4,0.4,0.4
+Pela,Basic Attack 1,0.5,0.5,0.5
+Pela,Basic Attack 2,0.5,0.5,0.5
+Blade,Basic Attack 1,0.5,0.5,0.5
+Blade,Basic Attack 2,0.5,0.5,0.5
+Blade,Amp Basic Attack 1,0.5,0.5,0.5
+Blade,Amp Basic Attack 2,0.5,0.5,0.5
+Blade,Follow-up 1,0.33,0.33,0.33
+Blade,Follow-up 2,0.33,0.33,0.33
+Blade,Follow-up 3,0.34,0.34,0.34
+March 7th,Ultimate 1,0.25,0.25,0.25
+March 7th,Ultimate 2,0.25,0.25,0.25
+March 7th,Ultimate 3,0.25,0.25,0.25
+March 7th,Ultimate 4,0.25,0.25,0.25
+Sampo,Basic Attack 1,0.3,0.3,0.3
+Sampo,Basic Attack 2,0.3,0.3,0.3
+Sampo,Basic Attack 3,0.4,0.4,0.4
+Sampo,Ultimate 1,0.25,0.25,0.25
+Sampo,Ultimate 2,0.25,0.25,0.25
+Sampo,Ultimate 3,0.25,0.25,0.25
+Sampo,Ultimate 4,0.25,0.25,0.25
+Sushang,Skill 1,0.3,0.3,0.3
+Sushang,Skill 2,0.7,0.7,0.7
+Tingyun,Basic Attack 1,0.3,0.3,0.3
+Tingyun,Basic Attack 2,0.7,0.7,0.7
+Welt,Talent 1,0.1,-,-
+Welt,Talent 2,0.9,-,-
+Seele,Basic Attack 1,0.3,0.3,0.3
+Seele,Basic Attack 2,0.7,0.7,0.7
+Seele,Skill 1,0.2,0.2,0.2
+Seele,Skill 2,0.1,0.1,0.1
+Seele,Skill 3,0.1,0.1,0.1
+Seele,Skill 4,0.6,0.6,0.6
+XueYi,Basic Attack 1,0.4,0.4,0.4
+XueYi,Basic Attack 2,0.6,0.6,0.6
+Yanqing,Basic Attack 1,0.5,0.5,0.5
+Yanqing,Basic Attack 2,0.25,0.25,0.25
+Yanqing,Basic Attack 3,0.25,0.25,0.25
+Yanqing,Skill 1,0.25,0.25,0.25
+Yanqing,Skill 2,0.25,0.25,0.25
+Yanqing,Skill 3,0.25,0.25,0.25
+Yanqing,Skill 4,0.25,0.25,0.25
+Silver Wolf,Basic Attack 1,0.25,0.25,0.25
+Silver Wolf,Basic Attack 2,0.25,0.25,0.25
+Silver Wolf,Basic Attack 3,0.5,0.5,0.5
+Yukong,Basic Attack 1,0.2,0.2,0.2
+Yukong,Basic Attack 2,0.2,0.2,0.2
+Yukong,Basic Attack 3,0.6,0.6,0.6
+Topaz & Numby,Skill 1,0.1,0.1,0.1
+Topaz & Numby,Skill 2,0.1,0.1,0.1
+Topaz & Numby,Skill 3,0.1,0.1,0.1
+Topaz & Numby,Skill 4,0.1,0.1,0.1
+Topaz & Numby,Skill 5,0.1,0.1,0.1
+Topaz & Numby,Skill 6,0.1,0.1,0.1
+Topaz & Numby,Skill 7,0.1,0.1,0.1
+Topaz & Numby,Skill 8,0.3,0.3,0.3
+Topaz & Numby,Numby 1,0.142857143,0.142857143,-
+Topaz & Numby,Numby 2,0.142857143,0.142857143,-
+Topaz & Numby,Numby 3,0.142857143,0.142857143,-
+Topaz & Numby,Numby 4,0.142857143,0.142857143,-
+Topaz & Numby,Numby 5,0.142857143,0.142857143,-
+Topaz & Numby,Numby 6,0.142857143,0.142857143,-
+Topaz & Numby,Numby 7,0.142857143,0.142857143,-
+Topaz & Numby,Amp Numby 1,0.1,0.1,0.1
+Topaz & Numby,Amp Numby 2,0.1,0.1,0.1
+Topaz & Numby,Amp Numby 3,0.1,0.1,0.1
+Topaz & Numby,Amp Numby 4,0.1,0.1,0.1
+Topaz & Numby,Amp Numby 5,0.1,0.1,0.1
+Topaz & Numby,Amp Numby 6,0.1,0.1,0.1
+Topaz & Numby,Amp Numby 7,0.1,0.1,0.1
+Topaz & Numby,Amp Numby 8,0.3,0.3,0.3

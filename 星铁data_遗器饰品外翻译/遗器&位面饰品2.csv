@@ -1,0 +1,13 @@
+Planar Ornaments,PO_ID,effect_1,effect_1,num_1,effect_2,effect_2,num_2
+Space Sealing Station,301,攻击力,ATK,12%,攻击力,ATK,12%
+Fleet of the Ageless,302,生命上限,Max HP,12%,全体攻击力,all allies' ATK,8%
+Pan-Cosmic Commercial Enterprise,303,效果命中,Effect Hit Rate,10%,效果命中,Effect Hit Rate,25%
+Belobog of the Architects,304,防御力,DEF,15%,防御力,DEF,15%
+Celestial Differentiator,305,暴击伤害,CRIT DMG,16%,暴击率,CRIT Rate,60%
+Inert Salsotto,306,暴击率,CRIT Rate,8%,终结技和追加攻击造成的伤害,Ultimate and follow-up attack DMG,15%
+Taila: Kingdom of Banditry,307,击破特攻,Break Effect,16%,击破特攻,Break Effect,20%
+Sprightly Vomwacq,308,能量恢复效率,Energy Regeneration Rate,5%,行动提前,Action Advanced Forward,40%
+Rutilant Arena,309,暴击率,CRIT Rate,8%,普攻和战技造成的伤害,Basic ATK and Skill DMG,20%
+Broken Keel,310,效果抵抗,Effect RES,10%,全体暴击伤害,all allies' CRIT DMG,10%
+Firmament Frontline Glamoth,311,攻击力,ATK,12%,伤害,ATK,12%
+"Penacony, Land of the Dreams",312,能量恢复效率,Energy Regeneration Rate,5%,伤害,ATK,10%

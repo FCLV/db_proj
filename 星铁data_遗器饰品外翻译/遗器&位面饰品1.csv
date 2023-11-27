@@ -1,0 +1,17 @@
+Cavern Relic Sets,CR_ID,effect,num
+Passerby of Wandering Cloud,101,Outgoing Healing,10%
+Musketeer of Wild Wheat,102,ATK,12%
+Knight of Purity Palace,103,DEF,15%
+Hunter of Glacial Forest,104,Ice DMG,10%
+Champion of Streetwise Boxing,105,Break Effect,10%
+Guard of Wuthering Snow,106,DMG,minus 8%
+Firesmith of Lava-Forging,107,Fire DMG,10%
+Genius of Brilliant Stars,108,Quantum DMG,10%
+Band of Sizzing Thunder,109,Lightning DMG,10%
+Eagle of Twilight Line,110,Wind DMG,10%
+Thief of Shooting Meteor,111,Break Effect,16%
+Wastelander of Banditry Desert,112,Imaginary DMG,10%
+Longevous Disciple,113,Max HP,12%
+Messenger Traversing Hackerspace,114,SPD,6%
+The Ashblazing Grand Duke,115,follow-up attack DMG,20%
+Prisoner in Deep Confinement,116,ATK,12%

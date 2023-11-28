@@ -1,64 +1,62 @@
-Name,Lc_ID,HP_base,Atk_base,Def_base,HP_base_80,Atk_base_80,Def_base_80,Weight_HP,Weight_Atk,Weight_Def,Weight_Sum,Star_Num,Path,character,limited,version
-Night on the Milky Way,23000,52.8,26.4,18,1164.24,582.12,396.9,11,11,6,28,5,The Erudition,Himeko,0,
-Before Dawn,23010,48,26.4,21,1058.4,582.12,463.05,10,11,7,28,5,The Erudition,Jing Yuan,1,1
-An Instant Before Gaze,23018,48,26.4,21,1058.4,582.12,463.05,10,11,7,28,5,The Erudition,Argenti,1,1.5
-In the Night,23001,48,26.4,21,1058.4,582.12,463.05,10,11,7,28,5,Hunt,Seele,1,1
-Sleep Like the Dead,23012,48,26.4,21,1058.4,582.12,463.05,10,11,7,28,5,Hunt,Yanqing,0,
-"Worrisome, Blissful",23016,48,26.4,21,1058.4,582.12,463.05,10,11,7,28,5,Hunt,Topaz & Numby,1,1.4
-In the Name of the World,23004,48,26.4,21,1058.4,582.12,463.05,10,11,7,28,5,Nihility,Welt,0,
-Incessant Rain,23007,48,26.4,21,1058.4,582.12,463.05,10,11,7,28,5,Nihility,Silver Wolf,1,1.1
-Patience Is All You Need,23006,48,26.4,21,1058.4,582.12,463.05,10,11,7,28,5,Nihility,Kafka,1,1.2
-But the Battle Isn¡¯t Over,23003,52.8,24,21,1164.24,529.2,463.05,11,10,7,28,5,Harmony,Bronya,0,
-Something Irreplaceable,23002,52.8,26.4,18,1164.24,582.12,396.9,11,11,6,28,5,Destruction,Clara,0,
-The Unreachable Side,23009,57.6,26.4,15,1270.08,582.12,330.75,12,11,5,28,5,Destruction,Blade,1,1.2
-Brighter Than the Sun,23015,48,28.8,18,1058.4,635.04,396.9,10,12,6,28,5,Destruction,Dan Heng¡¤Imbibitor Lunae,1,1.3
-I Shall Be My Own Sword,23014,52.8,26.4,18,1164.24,582.12,396.9,11,11,6,28,5,Destruction,Jingliu,1,1.4
-Time Waits for No One,23013,57.6,21.6,21,1270.08,476.28,463.05,12,9,7,28,5,Abundance,Bailu,0,
-Echoes of the Coffin,23008,52.8,26.4,18,1164.24,582.12,396.9,11,11,6,28,5,Abundance,Luocha,1,1.1
-Night of Fright,23017,52.8,21.6,24,1164.24,476.28,529.2,11,9,8,28,5,Abundance,Huohuo,1,1.5
-Moment of Victory,23005,48,21.6,27,1058.4,476.28,595.35,10,9,9,28,5,Preservation,Gepard,0,
-She Already Shut Her Eyes,23011,57.6,19.2,24,1270.08,423.36,529.2,12,8,8,28,5,Preservation,Fu Xuan,1,1.3
+Name,Lc_ID,HP_base,Atk_base,Def_base,HP_base_80,Atk_base_80,Def_base_80,Weight_HP,Weight_Atk,Weight_Def,Weight_Sum,Star_Num,Path,Ch_ID,limited,version
+Night on the Milky Way,23000,52.8,26.4,18,1164.24,582.12,396.9,11,11,6,28,5,The Erudition,1003,0,
+Before Dawn,23010,48,26.4,21,1058.4,582.12,463.05,10,11,7,28,5,The Erudition,1204,1,1
+In the Night,23001,48,26.4,21,1058.4,582.12,463.05,10,11,7,28,5,Hunt,1102,1,1
+Sleep Like the Dead,23012,48,26.4,21,1058.4,582.12,463.05,10,11,7,28,5,Hunt,1209,0,
+"Worrisome, Blissful",23016,48,26.4,21,1058.4,582.12,463.05,10,11,7,28,5,Hunt,1112,1,1.4
+In the Name of the World,23004,48,26.4,21,1058.4,582.12,463.05,10,11,7,28,5,Nihility,1004,0,
+Incessant Rain,23007,48,26.4,21,1058.4,582.12,463.05,10,11,7,28,5,Nihility,1006,1,1.1
+Patience Is All You Need,23006,48,26.4,21,1058.4,582.12,463.05,10,11,7,28,5,Nihility,1005,1,1.2
+But the Battle Isn¡¯t Over,23003,52.8,24,21,1164.24,529.2,463.05,11,10,7,28,5,Harmony,1101,0,
+Something Irreplaceable,23002,52.8,26.4,18,1164.24,582.12,396.9,11,11,6,28,5,Destruction,1107,0,
+The Unreachable Side,23009,57.6,26.4,15,1270.08,582.12,330.75,12,11,5,28,5,Destruction,1205,1,1.2
+Brighter Than the Sun,23015,48,28.8,18,1058.4,635.04,396.9,10,12,6,28,5,Destruction,1213,1,1.3
+I Shall Be My Own Sword,23014,52.8,26.4,18,1164.24,582.12,396.9,11,11,6,28,5,Destruction,1212,1,1.4
+Time Waits for No One,23013,57.6,21.6,21,1270.08,476.28,463.05,12,9,7,28,5,Abundance,1211,0,
+Echoes of the Coffin,23008,52.8,26.4,18,1164.24,582.12,396.9,11,11,6,28,5,Abundance,1203,1,1.1
+Night of Fright,23017,52.8,21.6,24,1164.24,476.28,529.2,11,9,8,28,5,Abundance,1217,1,1.5
+Moment of Victory,23005,48,21.6,27,1058.4,476.28,595.35,10,9,9,28,5,Preservation,1104,0,
+She Already Shut Her Eyes,23011,57.6,19.2,24,1270.08,423.36,529.2,12,8,8,28,5,Preservation,1208,1,1.3
 Cruising the Stellar Sea,24001,43.2,24,21,952.56,529.2,463.05,9,10,7,26,4.6,Hunt,,0,
 Solitary Healing,24003,48,24,18,1058.4,529.2,396.9,10,10,6,26,4.6,Nihility,,0,
 On the Fall of an Aeon,24000,48,24,18,1058.4,529.2,396.9,10,10,6,26,4.6,Destruction,,0,
 Texture of Memories,24002,48,19.2,24,1058.4,423.36,529.2,10,8,8,26,4.6,Preservation,,0,
-The Birth of Self,21006,43.2,21.6,15,952.56,476.28,330.75,9,9,5,23,4,The Erudition,Herta,0,
-Only Silence Remains,21003,43.2,21.6,15,952.56,476.28,330.75,9,9,5,23,4,Hunt,Dan Heng,0,
-Swordplay,21010,43.2,21.6,15,952.56,476.28,330.75,9,9,5,23,4,Hunt,Sushang,0,
-Subscribe for More!,21017,43.2,21.6,15,952.56,476.28,330.75,9,9,5,23,4,Hunt,Guinaifen,0,
-Good Night and Sleep Well,21001,43.2,21.6,15,952.56,476.28,330.75,9,9,5,23,4,Nihility,Pela,0,
-Eyes of the Prey,21008,43.2,21.6,15,952.56,476.28,330.75,9,9,5,23,4,Nihility,Sampo,0,
-Resolution Shines As Pearls of Sweat,21015,43.2,21.6,15,952.56,476.28,330.75,9,9,5,23,4,Nihility,Luka,0,
-Fermata,21022,43.2,21.6,15,952.56,476.28,330.75,9,9,5,23,4,Nihility,Kafka,1,
-Before the Tutorial Mission Starts,21035,43.2,21.6,15,952.56,476.28,330.75,9,9,5,23,4,Nihility,Silver Wolf,1,
-"Carve the Moon, Weave the Clouds",21032,43.2,21.6,15,952.56,476.28,330.75,9,9,5,23,4,Harmony,Sushang,0,
-Under the Blue Sky,21019,43.2,21.6,15,952.56,476.28,330.75,9,9,5,23,4,Destruction,Hanya,0,
+The Birth of Self,21006,43.2,21.6,15,952.56,476.28,330.75,9,9,5,23,4,The Erudition,1013,0,
+Only Silence Remains,21003,43.2,21.6,15,952.56,476.28,330.75,9,9,5,23,4,Hunt,1002,0,
+Swordplay,21010,43.2,21.6,15,952.56,476.28,330.75,9,9,5,23,4,Hunt,1206,0,
+Subscribe for More!,21017,43.2,21.6,15,952.56,476.28,330.75,9,9,5,23,4,Hunt,1210,0,
+Good Night and Sleep Well,21001,43.2,21.6,15,952.56,476.28,330.75,9,9,5,23,4,Nihility,1106,0,
+Eyes of the Prey,21008,43.2,21.6,15,952.56,476.28,330.75,9,9,5,23,4,Nihility,1108,0,
+Resolution Shines As Pearls of Sweat,21015,43.2,21.6,15,952.56,476.28,330.75,9,9,5,23,4,Nihility,1111,0,
+Fermata,21022,43.2,21.6,15,952.56,476.28,330.75,9,9,5,23,4,Nihility,1005,1,
+Before the Tutorial Mission Starts,21035,43.2,21.6,15,952.56,476.28,330.75,9,9,5,23,4,Nihility,1006,1,
+"Carve the Moon, Weave the Clouds",21032,43.2,21.6,15,952.56,476.28,330.75,9,9,5,23,4,Harmony,1206,0,
+Under the Blue Sky,21019,43.2,21.6,15,952.56,476.28,330.75,9,9,5,23,4,Destruction,1205,0,
 Woof! Walk Time!,21026,43.2,21.6,15,952.56,476.28,330.75,9,9,5,23,4,Destruction,,0,
-Day One of My New Life,21002,43.2,16.8,21,952.56,370.44,463.05,9,7,7,23,4,Preservation,March 7th,0,
-We Are Wildfire,21023,33.6,21.6,21,740.88,476.28,463.05,7,9,7,23,4,Preservation,Seele,1,
-Make the World Clamor,21013,38.4,21.6,18,846.72,476.28,396.9,8,9,6,23,4,The Erudition,Serval,0,
-Geniuses¡¯ Repose,21020,38.4,21.6,18,846.72,476.28,396.9,8,9,6,23,4,The Erudition,RuanMei,0,
+Day One of My New Life,21002,43.2,16.8,21,952.56,370.44,463.05,9,7,7,23,4,Preservation,1001,0,
+We Are Wildfire,21023,33.6,21.6,21,740.88,476.28,463.05,7,9,7,23,4,Preservation,1102,1,
+Make the World Clamor,21013,38.4,21.6,18,846.72,476.28,396.9,8,9,6,23,4,The Erudition,1103,0,
 The Seriousness of Breakfast,21027,38.4,21.6,18,846.72,476.28,396.9,8,9,6,23,4,The Erudition,,0,
-Today Is Another Peaceful Day,21034,38.4,24,15,846.72,529.2,330.75,8,10,5,23,4,The Erudition,Qingque,0,
-River Flows in Spring,21024,38.4,21.6,18,846.72,476.28,396.9,8,9,6,23,4,Hunt,Yanqing,0,
-Return to Darkness,21031,38.4,24,15,846.72,529.2,330.75,8,10,5,23,4,Hunt,Hanya,0,
-We Will Meet Again,21029,38.4,24,15,846.72,529.2,330.75,8,10,5,23,4,Nihility,Silver Wolf,1,
-Memories of the Past,21004,43.2,19.2,18,952.56,423.36,396.9,9,8,6,23,4,Harmony,Bronya,0,
-Planetary Rendezvous,21011,48,19.2,15,1058.4,423.36,330.75,10,8,5,23,4,Harmony,Asta,0,
-Dance! Dance! Dance!,21018,43.2,19.2,18,952.56,423.36,396.9,9,8,6,23,4,Harmony,Hook,0,
-Past and Future,21025,43.2,19.2,18,952.56,423.36,396.9,9,8,6,23,4,Harmony,Yukong,0,
-The Moles Welcome You,21005,48,21.6,12,1058.4,476.28,264.6,10,9,4,23,4,Destruction,Hook,0,
-A secret Vow,21012,48,21.6,12,1058.4,476.28,264.6,10,9,4,23,4,Destruction,Arlan,0,
-Nowhere to Run,21033,43.2,24,12,952.56,529.2,264.6,9,10,4,23,4,Destruction,Blade,1,
-Post-Op Coversation,21000,48,19.2,15,1058.4,423.36,330.75,10,8,5,23,4,Abundance,Natasha,0,
-Shared Feeling,21007,43.2,19.2,18,952.56,423.36,396.9,9,8,6,23,4,Abundance,Clara,0,
-Perfect Timing,21014,43.2,19.2,18,952.56,423.36,396.9,9,8,6,23,4,Abundance,Jing Yuan,1,
-"Hey, Over Here",21036,43.2,19.2,18,952.56,423.36,396.9,9,8,6,23,4,Abundance,Guinaifen,0,
-Quid Pro Quo,21021,43.2,19.2,18,952.56,423.36,396.9,9,8,6,23,4,Abundance,Bailu,0,
-Warmth Shortens Cold Nights,21028,48,16.8,18,1058.4,370.44,396.9,10,7,6,23,4,Abundance,Pela,0,
-Landau¡¯s Choice,21009,43.2,19.2,18,952.56,423.36,396.9,9,8,6,23,4,Preservation,Gepard,0,
-Trend of the Universal Market,21016,48,16.8,18,1058.4,370.44,396.9,10,7,6,23,4,Preservation,Topaz & Numby,0,
-This Is Me!,21030,38.4,16.8,24,846.72,370.44,529.2,8,7,8,23,4,Preservation,March 7th,0,
+Today Is Another Peaceful Day,21034,38.4,24,15,846.72,529.2,330.75,8,10,5,23,4,The Erudition,1201,0,
+River Flows in Spring,21024,38.4,21.6,18,846.72,476.28,396.9,8,9,6,23,4,Hunt,1209,0,
+Return to Darkness,21031,38.4,24,15,846.72,529.2,330.75,8,10,5,23,4,Hunt,1205,0,
+We Will Meet Again,21029,38.4,24,15,846.72,529.2,330.75,8,10,5,23,4,Nihility,1006,1,
+Memories of the Past,21004,43.2,19.2,18,952.56,423.36,396.9,9,8,6,23,4,Harmony,1101,0,
+Planetary Rendezvous,21011,48,19.2,15,1058.4,423.36,330.75,10,8,5,23,4,Harmony,1009,0,
+Dance! Dance! Dance!,21018,43.2,19.2,18,952.56,423.36,396.9,9,8,6,23,4,Harmony,1109,0,
+Past and Future,21025,43.2,19.2,18,952.56,423.36,396.9,9,8,6,23,4,Harmony,1207,0,
+The Moles Welcome You,21005,48,21.6,12,1058.4,476.28,264.6,10,9,4,23,4,Destruction,1109,0,
+A secret Vow,21012,48,21.6,12,1058.4,476.28,264.6,10,9,4,23,4,Destruction,1008,0,
+Nowhere to Run,21033,43.2,24,12,952.56,529.2,264.6,9,10,4,23,4,Destruction,1205,1,
+Post-Op Coversation,21000,48,19.2,15,1058.4,423.36,330.75,10,8,5,23,4,Abundance,1105,0,
+Shared Feeling,21007,43.2,19.2,18,952.56,423.36,396.9,9,8,6,23,4,Abundance,1107,0,
+Perfect Timing,21014,43.2,19.2,18,952.56,423.36,396.9,9,8,6,23,4,Abundance,1204,1,
+"Hey, Over Here",21036,43.2,19.2,18,952.56,423.36,396.9,9,8,6,23,4,Abundance,1210,0,
+Quid Pro Quo,21021,43.2,19.2,18,952.56,423.36,396.9,9,8,6,23,4,Abundance,1211,0,
+Warmth Shortens Cold Nights,21028,48,16.8,18,1058.4,370.44,396.9,10,7,6,23,4,Abundance,1106,0,
+Landau¡¯s Choice,21009,43.2,19.2,18,952.56,423.36,396.9,9,8,6,23,4,Preservation,1104,0,
+Trend of the Universal Market,21016,48,16.8,18,1058.4,370.44,396.9,10,7,6,23,4,Preservation,1112,0,
+This Is Me!,21030,38.4,16.8,24,846.72,370.44,529.2,8,7,8,23,4,Preservation,1001,0,
 Data Bank,20006,33.6,16.8,12,740.88,370.44,264.6,7,7,4,18,3,The Erudition,,0,
 Passkey,20013,33.6,16.8,12,740.88,370.44,264.6,7,7,4,18,3,The Erudition,,0,
 Sagacity,20020,33.6,16.8,12,740.88,370.44,264.6,7,7,4,18,3,The Erudition,,0,

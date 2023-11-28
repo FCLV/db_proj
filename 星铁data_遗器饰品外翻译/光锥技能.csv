@@ -95,9 +95,6 @@ Lc_ID,name,effect_id,skill_name,effect,linear,Lv1,Lv2,Lv3,Lv4,Lv5,Path,Star_Num
 21027,The Seriousness of Breakfast,1,Get Ready,Damage Bonus,Normal 2,12%,0.15,0.18,0.21,0.24,The Erudition,4
 21027,The Seriousness of Breakfast,2,Get Ready,Attack Bonus,Normal 2,4%,0.05,0.06,0.07,0.08,The Erudition,4
 21027,The Seriousness of Breakfast,3,Get Ready,Maximum Stack Count,Non-growth,3,3,3,3,3,The Erudition,4
-21020,Geniuses' Repose,1,Each Now Has a Role to Play,Damage Bonus,Normal 2,16%,0.2,0.24,0.28,0.32,The Erudition,4
-21020,Geniuses' Repose,2,Each Now Has a Role to Play,Critical Damage Bonus,Normal 2,24%,0.3,0.36,0.42,0.48,The Erudition,4
-21020,Geniuses' Repose,3,Each Now Has a Role to Play,Duration in Rounds,Non-growth,3,3,3,3,3,The Erudition,4
 21013,Make the World Clamor,1,The Power of Sound,Base Energy Recovery,Special 2,20,23,26,29,32,The Erudition,4
 21013,Make the World Clamor,2,The Power of Sound,Ultimate Damage Increase,Normal 2,32%,0.4,0.48,0.56,0.64,The Erudition,4
 ,The Birth of Self,1,The Maiden in the Painting,Damage Bonus,Normal 2,24%,0.3,0.36,0.42,0.48,The Erudition,4
